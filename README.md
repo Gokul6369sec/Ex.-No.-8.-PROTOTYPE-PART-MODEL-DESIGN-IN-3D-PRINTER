@@ -51,8 +51,8 @@
 <img width="441" height="587" alt="image" src="https://github.com/user-attachments/assets/1e0f0094-74c0-4a0a-bdd3-e7a4d423e443" />
 
 
-### Name: VASANTHABALAN K
-### Register Number:212224230296
+### Name:gokulan r
+### Register Number:212224230076
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
